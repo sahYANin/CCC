@@ -1,0 +1,15 @@
+C:\Users\SahYA\Desktop\CC\Les4\bin\Debug\net6.0\Les4.exe
+C:\Users\SahYA\Desktop\CC\Les4\bin\Debug\net6.0\Les4.deps.json
+C:\Users\SahYA\Desktop\CC\Les4\bin\Debug\net6.0\Les4.runtimeconfig.json
+C:\Users\SahYA\Desktop\CC\Les4\bin\Debug\net6.0\Les4.dll
+C:\Users\SahYA\Desktop\CC\Les4\bin\Debug\net6.0\Les4.pdb
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.csproj.AssemblyReference.cache
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.AssemblyInfoInputs.cache
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.AssemblyInfo.cs
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.csproj.CoreCompileInputs.cache
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.dll
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\refint\Les4.dll
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.pdb
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\Les4.genruntimeconfig.cache
+C:\Users\SahYA\Desktop\CC\Les4\obj\Debug\net6.0\ref\Les4.dll
